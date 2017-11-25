@@ -63,13 +63,3 @@ class Currencies:
         self.LTC = self.__get_price_class(json=__result, currency='LTC')
         self.DOGE = self.__get_price_class(json=__result, currency='DOGE')
         self.DASH = self.__get_price_class(json=__result, currency='DASH')
-
-
-
-
-
-
-
-
-
-
